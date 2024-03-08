@@ -31,10 +31,10 @@ DANNY FILL IN INSTRUCTIONS HERE AFTER FINALIZING CAD   1. Assemble finger accord
 
 2. The finger uses an LDR and an LED to simulate a flex sensor. Use heat-shrink tubing to connect the
 LDR to the LED as shown below. The sensor measures the flex by detecting the amount of light that passes
-through the system. Tape can be used to prevent cables from disconnecting.
+through the system. Tape can be used to prevent cables from disconnecting. <br />
 ![image](https://github.com/leomarek/OEDK_finger/assets/56487792/2693f276-1ac7-4b0d-9f19-dfed4a240e7a)
 
-3. Follow diagram below to connect circuit to breadboard.
+3. Follow diagram below to connect circuit to breadboard. <br />
 ![image](https://github.com/leomarek/OEDK_finger/assets/56487792/ce20368d-40cd-4d03-a0fc-e5cbacdbcf8a)
 
 5. Connect arduino to computer and upload provided code.
